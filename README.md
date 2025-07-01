@@ -2,6 +2,8 @@
 
 Panduan ini ditujukan bagi pengembang di lingkungan Universitas Sultan Ageng Tirtayasa (UNTIRTA) yang ingin memulai bekerja dengan Git serta berkolaborasi melalui GitHub. Proses mencakup pengklonan repositori yang sudah ada, membuat repositori latihan, hingga praktik kolaborasi tim yang baik.
 
+![Git Flow Workflow](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
+
 ## Mengkloning Repositori dari GitHub
 
 Untuk mulai bekerja dengan proyek yang sudah ada di GitHub:
@@ -54,6 +56,8 @@ git checkout -b fitur/login
 Branch ini akan memudahkan penggabungan ke `main` atau `develop` tanpa konflik.
 
 ### 2. Commit Secara Konsisten dan Terstruktur
+
+![Git Flow Workflow](https://scalastic.io/assets/img/git-flow-workflow.svg)
 
 Lakukan commit secara berkala dengan pesan yang deskriptif. Gunakan [Conventional Commit](https://www.conventionalcommits.org/) untuk standarisasi. Contoh konvensi:
 
