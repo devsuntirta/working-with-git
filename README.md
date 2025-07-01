@@ -2,7 +2,7 @@
 
 Panduan ini ditujukan bagi pengembang di lingkungan Universitas Sultan Ageng Tirtayasa (UNTIRTA) yang ingin memulai bekerja dengan Git serta berkolaborasi melalui GitHub. Proses mencakup pengklonan repositori yang sudah ada, membuat repositori latihan, hingga praktik kolaborasi tim yang baik.
 
-![Git Flow Workflow](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
+![Git Flow Workflow]([https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png](https://allvectorlogo.com/img/2021/12/github-logo-vector.png))
 
 ## Mengkloning Repositori dari GitHub
 
