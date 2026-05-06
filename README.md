@@ -66,7 +66,8 @@ Lakukan commit secara berkala dengan pesan yang deskriptif. Gunakan [Conventiona
 - `docs`: Perubahan dokumentasi  
 - `style`: Perubahan gaya kode (indentasi, spasi, dll)  
 - `refactor`: Refaktor kode tanpa mengubah fungsionalitas  
-- `test`: Penambahan atau perubahan pada unit test  
+- `test`: Penambahan atau perubahan pada unit test
+- `remove`: Penghapusan file
 
 **Contoh:**
 
